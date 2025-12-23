@@ -1,0 +1,6 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,Login issue,Unable to login with correct credentials,Account Management,High,2024-01-01 10:00:00
+2,Billing error,Charged twice for monthly subscription,Billing Inquiry,High,2024-01-02 11:30:00
+3,App crash,Application crashes on startup,Bug Report,Critical,2024-01-03 09:15:00
+4,New feature,Request dark mode option,Feature Request,Low,2024-01-04 14:45:00
+5,Server timeout,API response taking too long,Technical Issue,Medium,2024-01-05 16:20:00
